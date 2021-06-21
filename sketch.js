@@ -28,7 +28,7 @@ function draw(){
 
     Engine.update(engine);
     // write code to display time in correct format here
-    fill("black");
+    fill("yellow");
     textSize(30);
 
     if(hour>=12){
